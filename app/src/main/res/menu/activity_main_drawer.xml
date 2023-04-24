@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn='navigation_view'>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_item_one"
+            android:icon="@drawable/home_icon"
+            android:title="@string/Inicio"/>
+
+
+        <item android:id="@+id/nav_item_two"
+            android:icon="@drawable/cal"
+            android:title="@string/Calendario"/>
+
+        <item android:id="@+id/nav_item_three"
+            android:icon="@drawable/ball"
+            android:title="@string/Grupos"/>
+
+        <item android:id="@+id/nav_item_four"
+            android:icon="@drawable/med"
+            android:title="@string/Tabla_General"/>
+
+        <item android:id="@+id/nav_item_five"
+            android:icon="@drawable/trop"
+            android:title="@string/Historial_de_Campeonatos"/>
+
+        <item android:id="@+id/nav_item_six"
+            android:icon="@drawable/ic_baseline_auto_graph_24"
+            android:title="@string/Reglamento"/>
+    </group>
+
+
+
+    <item android:title="Más Opciones">
+        <menu>
+           <!-- <item android:id="@+id/nav_item_seven"
+                android:icon="@drawable/sha"
+                android:title="@string/Compartir"/>-->
+
+            <item android:id="@+id/nav_item_eight"
+                android:icon="@drawable/quit"
+                android:title="@string/Salir"/>
+
+        </menu>
+
+    </item>
+
+
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783685942076",
+    "firebase_url": "https://terceradivi-d6926-default-rtdb.firebaseio.com",
+    "project_id": "terceradivi-d6926",
+    "storage_bucket": "terceradivi-d6926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783685942076:android:2332245ac14db1d44a7c39",
+        "android_client_info": {
+          "package_name": "com.example.tdgjsn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783685942076-etr0a2f13bhjji6ona7dhl9ul604ukgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42Ifez3tsybbWAG_5s2WNWAMAP3JSivI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783685942076-etr0a2f13bhjji6ona7dhl9ul604ukgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
